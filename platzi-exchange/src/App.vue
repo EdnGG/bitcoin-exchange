@@ -18,19 +18,19 @@ export default {
       links: [
         {
           title: "BTC",
-          to: { name: "coin-detail", params: { id: "bitcoin" } },
+          to: { name: "coin-detail", params: { id: "bitcoin" } }
         },
         {
           title: "ETH",
-          to: { name: "coin-detail", params: { id: "ethereum" } },
+          to: { name: "coin-detail", params: { id: "ethereum" } }
         },
         {
           title: "XRP",
-          to: { name: "coin-detail", params: { id: "ripple" } },
-        },
-      ],
+          to: { name: "coin-detail", params: { id: "ripple" } }
+        }
+      ]
     };
-  },
+  }
 };
 </script>
 
